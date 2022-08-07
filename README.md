@@ -1,9 +1,7 @@
-# image_classification_projet_app
-projet of image classification with deep learning
 ---
-title: Image Classification Projet
-emoji: 📚
-colorFrom: blue
+title: Image Classification Projet App
+emoji: 👀
+colorFrom: gray
 colorTo: yellow
 sdk: streamlit
 sdk_version: 1.10.0
